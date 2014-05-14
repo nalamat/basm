@@ -64,11 +64,8 @@ Then try running it again. The executable output will be 'bin/basm'.
 
 ## Web and contact
 
-Visit BASM's page at SourceForge:
+Visit BASM's page at GitHub:
     http://github.com/nalamat/basm
 
 Ask questions, report bugs and give suggestions here:
     http://github.com/nalamat/basm/issues
-
-Feel free to email me about anything:
-    nnalamat@gmail.com
