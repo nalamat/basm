@@ -12,7 +12,7 @@ does The Basic Computer actually work. Alongside this assembler, soon a
 simulator will also be available at BASM's GitHub page.
 
 
-## Legal note
+## Legal Note
 
 BASM is free software: you can redistribute it and/or modify it under the terms
 of the GNU General Public License as published by the Free Software Foundation,
