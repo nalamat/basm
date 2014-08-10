@@ -40,7 +40,7 @@ using namespace std;
 string glob_app_shortname = "BASM";
 string glob_app_fullname = "BASM: The Basic Computer Assembler";
 string glob_app_version = "1.2.0";
-string glob_app_email = "nnalamat@gmail.com";
+string glob_app_email = "nialamat@gmail.com";
 string glob_app_web = "http://github.com/nalamat/basm";
 
 int main(int argc, char *args[])
