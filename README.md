@@ -71,4 +71,4 @@ Ask questions, report bugs and give suggestions here:
     http://github.com/nalamat/basm/issues
 
 Feel free to email me about anything:
-    nnalamat@gmail.com
+    nialamat@gmail.com

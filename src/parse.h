@@ -1,8 +1,8 @@
 /*************************************************************************
  *                                                                       *
  * This file is a part of the BASM project: The Basic Computer Assembler *
- * Copyright (C) 2012-2014, Nima Alamatsaz, All rights reserved          *
- * Email: nnalamat@gmail.com                                             *
+ * Copyright (C) 2012-2014 Nima Alamatsaz, All rights reserved           *
+ * Email: nialamat@gmail.com                                             *
  * Web:   http://github.com/nalamat/basm                                 *
  *                                                                       *
  * BASM is free software: you can redistribute the software              *
