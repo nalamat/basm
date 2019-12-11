@@ -8,8 +8,9 @@ The Basic Computer Assembler
 BASM is a user friendly and easy to use assembler for The Basic Computer,
 capable of creating the object, list and hex file and giving detailed error
 reports. It's more of academic use for students who wish to understand how
-does The Basic Computer actually work. Alongside this assembler, soon a
-simulator will also be available at BASM's GitHub page.
+does The Basic Computer actually work. Alongside this assembler, The Basic
+Computer Simulator (BSIM) is also available at:
+https://github.com/nalamat/bsim
 
 
 ## How to use?
