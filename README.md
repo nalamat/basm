@@ -72,4 +72,4 @@ Ask questions, report bugs and give suggestions here:
     http://github.com/nalamat/basm/issues
 
 Feel free to email me about anything:
-    nialamat@gmail.com
+    nima.alamatsaz@gmail.com
