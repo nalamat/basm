@@ -12,20 +12,6 @@ does The Basic Computer actually work. Alongside this assembler, soon a
 simulator will also be available at BASM's GitHub page.
 
 
-## Legal note
-
-BASM is free software: you can redistribute the software and/or modify it under
-the terms of the GNU General Public License version 3 as published by the Free
-Software Foundation.
-
-BASM is distributed in the hope that it will be useful, but WITHOUT ANY
-WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
-A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with
-BASM. If not, see <http://www.gnu.org/licenses/>.
-
-
 ## How to use?
 
 It is much more preferable to add BASM's 'bin' folder location to 'PATH'
@@ -60,6 +46,20 @@ In case something went wrong, change the script's permissions:
     $ chmod 755 compile.sh
 
 Then try running it again. The executable output will be 'bin/basm'.
+
+
+## License
+
+BASM is free software: you can redistribute the software and/or modify it under
+the terms of the GNU General Public License version 3 as published by the Free
+Software Foundation.
+
+BASM is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with
+BASM. If not, see <http://www.gnu.org/licenses/>.
 
 
 ## Web and contact
